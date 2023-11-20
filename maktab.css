@@ -1,0 +1,32 @@
+.maktab{
+    text-align: center;
+    margin-left: 35px;
+    background-color: aqua;
+}
+.rasm{
+    border-radius: 15px;
+    margin-left: 180px;
+}
+.lokatsiya{
+    margin-left: 500px;
+}
+
+
+.seacher{
+    width: 70%;
+    height: 30px;
+    margin-left: 15%;
+    margin-top: 20px;
+    border-radius: 15px;
+    border: solid;
+    border-color: blue;
+}
+
+.menu_item{
+    text-decoration: solid;
+    font-size: 30px;
+    margin-left: 35px;
+}
+
+
+
